@@ -1,0 +1,12 @@
+Step 1:Start 
+Step 2:input subjectMarks=n
+Step 3: 
+	Step 3.1:if(all subjectMarks>60)
+		 print : Passed 
+		 else if 
+	Step 3.2:if(any two  subject>60)
+		 print : Promoted 
+		 else
+	Step 3.3:if(all subjectMarks>60)
+		 print :Failed
+Step 4:Stop. 

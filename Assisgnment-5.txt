@@ -1,0 +1,18 @@
+****
+Step 1:Start 
+Step 2:input i
+Step 3: if (i <=180000)  
+	print nil
+	else
+	i <=30000  
+	print 10%
+	else
+	i <=50000,  
+	print 20%
+	else
+	i <=10000,  
+	print nil
+	else
+	default  
+	print default 
+Step 4:Stop. 

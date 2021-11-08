@@ -1,0 +1,11 @@
+Step 1 : Read n
+Step 2 : temp=n , sum=0
+Step 3 :WHILE n>=0
+    step 3.1:sum=sum+(n%10)*(n%10)*(n%10)
+    step3.2:n=n/10
+Step 4:ENDWHILE
+
+Step 5:IF sum==temp
+    step 5.1:Write "Given Number is Armstrong Number"
+    Step 5.2:ELSE
+    Step 5.3:Write "Given Number is  not a Armstrong Number"

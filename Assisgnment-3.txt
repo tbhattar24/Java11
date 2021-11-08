@@ -1,0 +1,5 @@
+Step 1:Start.
+Step 2:Read Principal Amount, Rate and Time.
+Step 3:Calculate Interest using formula SI= ((amount*rate*time)/100) 
+Step 4:Print Simple Interest. // Valve from formula 
+Step 5:Stop. 

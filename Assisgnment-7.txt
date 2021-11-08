@@ -1,0 +1,10 @@
+Step 1:  Accept Array
+Step 2  :Display Array
+Step 3:  Enter the element you want to search in array i.e key
+Step 4:  set boolean  flag=false(if flag is flag in our array element is not present)
+Step 5:  use for Loop for each element
+         Step 5.1:if  arr[index]==key
+         Step 5.2:then set flag==true
+         Step 5.3:end for loop
+Step 6:   if flag==true print that element
+Step 7:   else print element not found

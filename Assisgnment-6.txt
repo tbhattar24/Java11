@@ -1,0 +1,16 @@
+Step 1: Start
+Step 2: input String // give the input string
+Step 3: String = " ", Password=" "
+Step 4: Int count=0;
+	Step 4.1:do
+	Step 4.2:print("Enter username")
+	Step 4.3:String="enter the username" //username should be string
+	Step 4.4:print("Enter password")
+	Step 4.5:string="enter the password" //password should be string
+		Step 4.5.1:if(password="swaroop123")
+		Step 4.5.2:print("Welcome" +username)
+		Step 4.5.3:else
+		Step 4.5.4:print("Error occured")
+	Step 4.6:while(count<5)
+	Step 4.7:print("contact Server")
+Step 5:Stop

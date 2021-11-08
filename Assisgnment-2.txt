@@ -1,0 +1,16 @@
+Step 1: Start
+Step 2: Input number from 100 // input number starts from 100
+Step 3: i=100 to i<=999
+	Step 3.1: num=i
+Step 4: Declare and intialize temp = num // temp is one varaible to store temporary valve 
+Step 5: for i=100;i>=num;num++
+	Step 5.1: While(num>0)
+	Step 5.2 : intialize sum=0
+	Step 5.3 : rem= num%10
+	Step 5.4 : num=num/10
+	Step 5.5 : sum= sum+rem*rem*rem
+Step 6: if(sum==temp)
+	step 6.1:Write "Given Number is Armstrong Number"
+	Step 6.2:ELSE
+    	Step 6.3:Write "Given Number is  not a Armstrong Number"
+Step 7: Stop

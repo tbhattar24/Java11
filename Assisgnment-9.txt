@@ -1,0 +1,13 @@
+Step1:     Start
+Step 2:    Accept the three subject marks for each student
+Step 3:     Set sub= 3  
+Step 4:     Sum of subject=  A+B+C
+Step 5:     Avrage = Sum of subject / sub
+Step 6:.    Set std = 3 
+Step 7:.    Sum of Sub A=A+A+A
+Step 8:     Avrage =Sum of Sub A/std
+Step 9:     Sum of Sub B=B+B+B
+Step 10:   Avrage =Sum of Sub B/std
+Step 11:   Sum of Sub C=C+C+C2
+Step 12:   Avrage =Sum of Sub C/std
+Step 13:   End
